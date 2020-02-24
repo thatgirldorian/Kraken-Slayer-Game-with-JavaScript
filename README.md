@@ -5,6 +5,11 @@ This is a small game I made with JavaScript to cememnt my understanding of the b
 I randomised the oucomes to be between 0 and 99. 
 Then, I fixed an outcome each for when the random number is over 50 or below it to determine whether a player wins or loses. 
 
+<h3>Technology Used:</h3>
+- HTML
+- JavaScript
+- GitHub
+
 <h3>Screenshots:</h3>
 
 ![Capture](https://user-images.githubusercontent.com/40691059/75192823-54841380-5755-11ea-8a5a-8e6cacc19b5c.PNG)
